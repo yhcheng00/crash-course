@@ -60,3 +60,7 @@ for i in range(len(contours)):
 cv2.imshow('Homework 2', dst)
 cv2.waitKey(0)
 
+# SUBMISSION INSTRUCTIONS:
+# For this assignment, only this python file is necessary. If you didn't hard-code the
+# points and have multiple test images that work, feel free to zip them up and send
+# them over!
